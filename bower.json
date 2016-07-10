@@ -30,7 +30,7 @@
         "outlayer.js"
       ]
     }
- }
+ },
   "devDependencies": {
     "angular-mocks": "^1.5.0",
     "sinonjs": "~1.10.0",
